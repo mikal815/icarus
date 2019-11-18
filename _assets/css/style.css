@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+
+<html>
+
+
+    <style>
+
+        body {
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            }
+        
+        .logo {
+            text-align: left;
+            color: #FFFFFF;
+            font-family: serif;
+            font-size: 1em;
+            font-weight: bold;
+            margin-top: 30px;
+            }
+
+        nav {
+            text-align: right;
+            list-style-type: none;
+            text-decoration: none;
+            color: #FFFFFF;
+            font-family: 'Space Age', arial;
+            font-size: 1em;
+            margin-top: 30px;
+            margin-bottom: 30px
+            } 
+
+        ul {
+            list-style: none
+            margin-top: 0px;
+            margin-bottom: 0px;
+            }
+
+        #homepageheadline {
+            text-align: left;
+            color: #FFFFFF;
+            font-family: 'Space Age', arial;
+            font-size: 1em;
+            margin-top: 30px;
+            margin-bottom: 30px
+            }
+        
+        #destinationsheadline { 
+            text-align: center;
+            color: #FFFFFF;
+            font-size: large   ;
+            margin-top: 30px;
+            margin-bottom: 30px}
+
+        .topratednames { 
+            text-align: left;
+            color: #FFFFFF;
+            font-size: large   ;
+            margin-top: 30px;
+            margin-bottom: 30px}
+
+        .homepageInfo {
+            text-align: right;
+            color: #FFFFFF;
+            font-size: 1em;
+            margin-top: 30px;
+            margin-bottom: 30px
+            }
+
+        .destinationsphotos {
+            text-align: right;
+            margin-top: 30px;
+            margin-bottom: 30px}
+
+        .topratedphotos {
+            text-align: center;
+            margin-top: 30px;
+            margin-bottom: 30px}
+
+        .destinationsinfo {
+            text-align: left;
+            color: #FFFFFF;
+            font-size: 1em;
+            font-weight: bold;
+            margin-top: 30px;}
+
+        .scrollbuttons {
+            text-align: right;
+            color: #FFFFFF;
+            font-size: 1em;
+            margin-top: 30px;
+            margin-bottom: 30px}
+
+        .marsheadline {
+            text-align: left;
+            color: #FFFFFF;
+            font-size: large;
+            margin-top: 30px;
+            margin-bottom: 30px}
+
+        .starrating {
+            text-align: left;
+            color: #FFFFFF;
+            font-size: large;
+            margin-top: 30px;
+            margin-bottom: 30px}
+
+        .galecraterinfo { 
+            text-align: left;
+            color: #FFFFFF;
+            font-size: 1em;
+            font-weight: bold;
+            margin-top: 30px;}
+
+        .bookingbuttons {  
+            text-align: left;
+            color: #FFFFFF;
+            font-size: large;
+            margin-top: 30px;
+            margin-bottom: 30px}
+
+        #destinationdetailphotocallout {  
+            text-align: right;
+            color: #FFFFFF;
+            font-size: large   ;
+            margin-top: 30px;
+            margin-bottom: 30px}
+
+        .destinationdetailphotos { 
+            text-align: right;
+            color: #FFFFFF;
+            font-size: 1em;
+            margin-top: 30px;
+            margin-bottom: 30px}
+
+        fieldset { text-align: left;
+            color: #ffffff;
+            font-family: serif;
+            font-size: 1em;
+            font-weight: bold;
+            margin-top: 30px;       }
+
+        footer {
+            text-align: left;
+            list-style-type: none;
+            text-decoration: none;
+            color: #FFFFFF;
+            font-family: 'Space Age', arial;
+            font-size: small;
+            border-top: 2px solid #57b1dc;
+            margin-top: 30px;
+            margin-bottom: 30px
+            }
+            
+    </style>
+
+
+</html>
