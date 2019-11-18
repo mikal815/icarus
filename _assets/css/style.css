@@ -1,15 +1,19 @@
-        /* body {
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-            } */
         
-        .bg1 { 
+        .bgContact { 
             background: url(../images/contactPage/contactBackground.jpg) no-repeat center center fixed; 
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
             background-size: cover;
           }    
+
+        .bgDesDet { 
+            background: url(../images/destinationsDetail/destinationsDetailBackground.jpg) no-repeat center center fixed; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+          }      
 
         .logo {
             text-align: left;
