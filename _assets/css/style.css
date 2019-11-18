@@ -1,8 +1,16 @@
-        body {
+        /* body {
             background-repeat: no-repeat;
             background-attachment: fixed;
-            }
+            } */
         
+        .bg1 { 
+            background: url(../images/contactPage/contactBackground.jpg) no-repeat center center fixed; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+          }    
+
         .logo {
             text-align: left;
             color: #FFFFFF;

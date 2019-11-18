@@ -8,73 +8,79 @@
     <meta charset="utf-8">
 
     <link rel="stylesheet" type="text/css" href="_assets/css/style.css">
-
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 </head>
 
-<body background="_assets/images/contactPage/contactBackground.jpg">
+<body class="bg1">
 
-    <div class="logo">
-        <p><a href="index.html"><img src="_assets/images/homePage/icarusLogoWhite_StarEdit.png" alt="Home"></a></p>
+    <div class="container contact">
+        <div class="logo">
+            <p><a href="index.html"><img src="_assets/images/homePage/icarusLogoWhite_StarEdit.png" alt="Home"></a></p>
+        </div>
+
+        <nav>
+            <ul>
+                <li>Icarus Experience</li>
+                <li><a href="destinationsLanding.html">Destinations</a></li>
+                <li><a href="topRated.html">Top Rated</a></li>
+                <li>Package</li>
+                <li>Account</li>
+                <li><img src="_assets/images/destinationsLanding/searchButton.png" alt="search"></li>
+            </ul>
+        </nav>
+
+        <br>
+
+
+        <form action="mailinglist.php" method="post">
+
+            <fieldset>
+                <legend>Contact Us:</legend>
+                <p>Enter your info below to stay up to date with our latest destinations and special rate packages.</p>
+
+                <ul>
+                    <li><label for="firstlast">Name:
+                            <input type="text" name="fullname" id="firstlast"></label></li>
+
+                    <li><label for="address">Address:
+                            <input type="text" name="address" id="address"></label></li>
+
+                    <li><label for="email">Email:
+                            <input type="text" name="email" id="email"></label></li>
+
+                    <li><label for="phone">Phone:
+                            <input type="text" name="phone" id="phone"></label></li>
+                </ul>
+
+                <br>
+
+                <p>Have a question or comment? Enter it below and one of our travel specialists will get back to you.
+                </p>
+
+                <br>
+
+                <textarea name="questions/comments" rows="10" cols="100"></textarea>
+
+                <br>
+
+                <input type="submit" value="Submit">
+                <input type="reset" value="Start Over">
+            </fieldset>
+
+        </form>
+
+
+        <footer>
+            <ul><a href="contactPage.html">Contact Us</a>, Locations, Careers, Terms and Conditions,<img
+                    src="_assets/images/homePage/facebookIcon.png" alt="facebook">Facebook, <img
+                    src="_assets/images/homePage/twitterIcon.png" alt="twitter"> Twitter, <img
+                    src="_assets/images/homePage/instagramIconcopy.png" alt="instagram"> Instagram</ul>
+        </footer>
+
     </div>
 
-    <nav>
-        <ul>
-            <li>Icarus Experience</li>
-            <li><a href="destinationsLanding.html">Destinations</a></li>
-            <li><a href="topRated.html">Top Rated</a></li>
-            <li>Package</li>
-            <li>Account</li>
-            <li><img src="_assets/images/destinationsLanding/searchButton.png" alt="search"></li>
-        </ul>
-    </nav>
-
-    <br>
-
-
-    <form action="mailinglist.php" method="post">
-
-        <fieldset>
-            <legend>Contact Us:</legend>
-            <p>Enter your info below to stay up to date with our latest destinations and special rate packages.</p>
-
-            <ul>
-                <li><label for="firstlast">Name:
-                        <input type="text" name="fullname" id="firstlast"></label></li>
-
-                <li><label for="address">Address:
-                        <input type="text" name="address" id="address"></label></li>
-
-                <li><label for="email">Email:
-                        <input type="text" name="email" id="email"></label></li>
-
-                <li><label for="phone">Phone:
-                        <input type="text" name="phone" id="phone"></label></li>
-            </ul>
-
-            <br>
-
-            <p>Have a question or comment? Enter it below and one of our travel specialists will get back to you.</p>
-
-            <br>
-
-            <textarea name="questions/comments" rows="10" cols="100"></textarea>
-
-            <br>
-
-            <input type="submit" value="Submit">
-            <input type="reset" value="Start Over">
-        </fieldset>
-
-    </form>
-
-
-    <footer>
-        <ul><a href="contactPage.html">Contact Us</a>, Locations, Careers, Terms and Conditions,<img
-                src="_assets/images/homePage/facebookIcon.png" alt="facebook">Facebook, <img
-                src="_assets/images/homePage/twitterIcon.png" alt="twitter"> Twitter, <img
-                src="_assets/images/homePage/instagramIconcopy.png" alt="instagram"> Instagram</ul>
-    </footer>
 
 </body>
 
