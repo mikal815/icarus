@@ -48,22 +48,9 @@
             margin-top: 30px;
             }
 
-        nav {
-            text-align: right;
-            list-style-type: none;
-            text-decoration: none;
-            color: #FFFFFF;
-            font-family: 'Space Age', arial;
-            font-size: 1em;
+        .navCol {
             margin-top: 30px;
-            margin-bottom: 30px
-            } 
-
-        ul {
-            list-style: none
-            margin-top: 0px;
-            margin-bottom: 0px;
-            }
+        }
 
         #homepageheadline {
             text-align: left;
