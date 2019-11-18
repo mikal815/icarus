@@ -16,7 +16,7 @@
           }      
 
         .bgDesLand { 
-            background: url(../images/destinationsLanding/destinationsBackground.jpg) no-repeat center center fixed; 
+            background: url(../images/destinationsLanding/destinationsBackgroundDark.jpg) no-repeat center center fixed; 
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
