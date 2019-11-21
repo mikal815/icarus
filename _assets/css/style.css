@@ -95,6 +95,11 @@
             padding-top: 33px;
         }    
 
+        .locations {
+            color: #d7d7d7;
+            font-size: 14px;
+        }
+
         .topratednames { 
             text-align: left;
             color: #FFFFFF;
@@ -110,29 +115,29 @@
             margin-bottom: 30px
             }
 
-        .destinationsphotos {
+        /* .destinationsphotos {
             text-align: right;
             margin-top: 30px;
-            margin-bottom: 30px}
+            margin-bottom: 30px} */
 
         .topratedphotos {
             text-align: center;
             margin-top: 30px;
             margin-bottom: 30px}
 
-        .destinationsinfo {
+        /* .destinationsinfo {
             text-align: left;
             color: #FFFFFF;
             font-size: 1em;
             font-weight: bold;
-            margin-top: 30px;}
+            margin-top: 30px;} */
 
-        .scrollbuttons {
+        /* .scrollbuttons {
             text-align: right;
             color: #FFFFFF;
             font-size: 1em;
             margin-top: 30px;
-            margin-bottom: 30px}
+            margin-bottom: 30px} */
 
         .marsheadline {
             text-align: left;
