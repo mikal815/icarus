@@ -85,9 +85,15 @@
         #destinationsheadline { 
             text-align: center;
             color: #FFFFFF;
-            font-size: large   ;
+            font-family: 'Space Age';
+            font-size: 40px;
             margin-top: 30px;
             margin-bottom: 30px}
+
+        .destinationTag {
+            font-size: 30px;
+            padding-top: 33px;
+        }    
 
         .topratednames { 
             text-align: left;
