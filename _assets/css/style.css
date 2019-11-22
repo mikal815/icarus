@@ -97,9 +97,12 @@
 
         .locations {
             color: white;
-            font-size: 14px;
+            font-size: 18px;
             background: rgba(185, 185, 185, 0.5);
             border-radius: 5%;
+            padding-top: 15px;
+            padding-left: 15px;
+            font-family: 'Open Sans Condensed', sans-serif;
         }
 
         .topratednames { 
