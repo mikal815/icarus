@@ -64,8 +64,9 @@
         }
 
         .blurb {
-            font-family: 'Roboto', sans-serif;
+            font-family: 'Open Sans Condensed', sans-serif;
             color: #d7d7d7;
+            font-size: 18px;
         }
 
         .container {
