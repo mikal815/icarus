@@ -32,7 +32,7 @@
           }  
           
         .bgTopRated { 
-            background: url(../images/topRatedPage/topRatedBackground.jpg) no-repeat center center fixed; 
+            background: url(../images/topRatedPage/topRatedBackgroundDark.jpg) no-repeat center center fixed; 
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
@@ -176,7 +176,11 @@
 
         .destinationsinfo {
             font-family: 'Open Sans Condensed', sans-serif;
+            font-size: 18px;
             color: white;
+            background: rgba(185, 185, 185, 0.5);
+            border-radius: 10%;
+            padding-top: 10px;
         }  
 
         .topImg {
