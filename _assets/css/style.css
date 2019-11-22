@@ -125,6 +125,10 @@
             margin-top: 30px;
             margin-bottom: 30px}
 
+        .destImg {
+            border-radius: 10%;
+        }    
+
         /* .destinationsinfo {
             text-align: left;
             color: #FFFFFF;
