@@ -101,10 +101,42 @@
             font-size: 18px;
             background: rgba(185, 185, 185, 0.5);
             border-radius: 5%;
-            padding-top: 15px;
+            padding-top: 12px;
             padding-left: 15px;
             font-family: 'Open Sans Condensed', sans-serif;
         }
+
+        .container .lava {
+            position: relative;
+            text-align: center;
+            color: white;
+          }
+
+        .container .earth {
+            position: relative;
+            text-align: center;
+            color: white;
+          }  
+
+        .container .saturn {
+            position: relative;
+            text-align: center;
+            color: white;
+          } 
+          
+        .container .gale {
+            position: relative;
+            text-align: center;
+            color: white;
+          }      
+
+        .top-left {
+            position: absolute;
+            top: 8px;
+            left: 16px;
+            font-family: 'Open Sans Condensed', sans-serif;
+            padding-left: 15px;
+          }  
 
         .topratednames { 
             text-align: left;
