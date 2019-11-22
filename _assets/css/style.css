@@ -176,7 +176,12 @@
 
         .destinationsinfo {
             font-family: 'Open Sans Condensed', sans-serif;
+            color: white;
         }  
+
+        .topImg {
+            border-radius: 10%;
+        }
 
         .topRatedImages {
             white-space:nowrap;
