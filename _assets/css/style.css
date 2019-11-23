@@ -247,6 +247,14 @@
             font-weight: bold;
             margin-top: 30px;       }
 
+        #contactUs {
+            font-family: 'Space Age';
+        }    
+
+        #contactBlurb {
+            font-family: 'Open Sans Condensed', sans-serif;
+        }
+
         footer {
             text-align: left;
             list-style-type: none;
