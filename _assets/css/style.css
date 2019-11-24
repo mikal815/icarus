@@ -248,7 +248,9 @@
             color: #FFFFFF;
             font-size: 1em;
             margin-top: 30px;
-            margin-bottom: 30px}
+            margin-bottom: 30px;
+            white-space: nowrap;
+        }
 
         fieldset { text-align: left;
             color: #ffffff;
