@@ -199,11 +199,16 @@
             margin-bottom: 30px} */
 
         .marsheadline {
-            text-align: left;
+            /* text-align: left;
             color: #FFFFFF;
             font-size: large;
             margin-top: 30px;
-            margin-bottom: 30px}
+            margin-bottom: 30px */
+
+            font-family: 'Space Age';
+            color: white;
+            font-size: x-large;
+        }
 
         .starrating {
             text-align: left;
