@@ -324,6 +324,12 @@
             font-size: xx-large;
         }
 
+        .packagesTitle {
+            color: white;
+            font-family: 'Space Age';
+            font-size: xx-large;
+        }
+
         .explorerTitle {
             color: white;
             font-family: 'Open Sans Condensed', sans-serif;
