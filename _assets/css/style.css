@@ -335,4 +335,9 @@
             font-family: 'Open Sans Condensed', sans-serif;
             font-size: xx-large;
         }
+
+        .newButton {
+            background-color: gray !important;
+            border: gray !important;
+        }
    
