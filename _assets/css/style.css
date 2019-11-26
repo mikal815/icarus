@@ -330,6 +330,12 @@
             font-size: xx-large;
         }
 
+        .packagesBlurb {
+            color: white;
+            font-family: 'Open Sans Condensed', sans-serif;
+            font-size: x-large;
+        }
+
         .explorerTitle {
             color: white;
             font-family: 'Open Sans Condensed', sans-serif;
