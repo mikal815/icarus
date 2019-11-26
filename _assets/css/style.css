@@ -323,4 +323,16 @@
             font-family: 'Space Age';
             font-size: xx-large;
         }
+
+        .explorerTitle {
+            color: white;
+            font-family: 'Open Sans Condensed', sans-serif;
+            font-size: xx-large;
+        }
+
+        .futureExplorerTitle {
+            color: white;
+            font-family: 'Open Sans Condensed', sans-serif;
+            font-size: xx-large;
+        }
    
