@@ -358,4 +358,10 @@
             font-family: 'Space Age';
             font-size: xx-large;
         }
+
+        .expBlurb {
+            color: white;
+            font-family: 'Open Sans Condensed', sans-serif;
+            font-size: x-large;
+        }
    
