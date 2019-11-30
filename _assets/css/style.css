@@ -352,4 +352,10 @@
             background-color: gray !important;
             border: gray !important;
         }
+
+        .icarusExpTitle {
+            color: white;
+            font-family: 'Space Age';
+            font-size: xx-large;
+        }
    
