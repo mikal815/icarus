@@ -352,6 +352,21 @@
             background-color: gray !important;
             border: gray !important;
             font-family: 'Berthold Akzidenz Grotesk BE Regular', 'arial' !important;
+
+            -moz-transition: all 0.2s ease-in !important;
+            -o-transition: all 0.2s ease-in !important;
+            -webkit-transition: all 0.2s ease-in !important;
+            transition: all 0.2s ease-in !important;
+        }
+
+        .newButton:hover {
+            color: gray !important;
+            background-color: white !important;
+            text-shadow:30px 0px 30px #ffffff !important;
+            -moz-transition: all 0.2s ease-in !important;
+            -o-transition: all 0.2s ease-in !important;
+            -webkit-transition: all 0.2s ease-in !important;
+            transition: all 0.2s ease-in !important;
         }
 
         .icarusExpTitle {
