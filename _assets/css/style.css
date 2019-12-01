@@ -351,6 +351,7 @@
         .newButton {
             background-color: gray !important;
             border: gray !important;
+            font-family: 'Berthold Akzidenz Grotesk BE Regular', 'arial' !important;
         }
 
         .icarusExpTitle {
