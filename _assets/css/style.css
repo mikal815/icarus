@@ -489,4 +489,8 @@
             from {opacity: .4}
             to {opacity: 1}
           }
+
+          .destLandNav {
+              margin-bottom: -40px;
+          }
         
