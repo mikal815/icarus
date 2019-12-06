@@ -84,19 +84,15 @@
 
         .tag {
             font-family: 'Space Age', arial;
-            font-size: 25px;
+            font-size: xx-large;
         }
 
         .blurb {
             font-family: 'Berthold Akzidenz Grotesk BE Regular', 'arial';
             color: #d7d7d7;
-            font-size: 18px;
+            font-size: x-large;
         }
 
-        .container {
-            padding-left: 0px;
-            padding-right: 0px;
-        }
 
         #homepageheadline {
             text-align: left;
@@ -129,7 +125,7 @@
             font-family: 'Berthold Akzidenz Grotesk BE Regular', 'arial';
         }
 
-        .container .lava {
+        /* .container .lava {
             position: relative;
             text-align: center;
             color: white;
@@ -159,7 +155,7 @@
             left: 16px;
             font-family: 'Berthold Akzidenz Grotesk BE Regular', 'arial';
             padding-left: 15px;
-          }  
+          }   */
 
         .topratednames { 
             text-align: left;
@@ -504,4 +500,16 @@
               color: transparent;
               font-family: 'Berthold Akzidenz Grotesk BE Regular', 'arial';
               font-size: x-large;
+          }
+
+
+         .footer1 {
+            position: relative;
+            margin-top: 50px; 
+            clear:both;
+          } 
+
+          .container {
+            max-width: 1380px !important;
+            width: 100% !important;
           }
