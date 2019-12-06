@@ -499,3 +499,9 @@
           .socialIcons {
               display: inline-flex !important;
           }
+
+          .placeholder1 {
+              color: transparent;
+              font-family: 'Berthold Akzidenz Grotesk BE Regular', 'arial';
+              font-size: x-large;
+          }
