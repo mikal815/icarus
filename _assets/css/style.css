@@ -321,13 +321,14 @@
         .packagesTitle {
             color: white;
             font-family: 'Space Age';
-            font-size: xx-large;
+            font-size: 2.6em;
+            margin: auto;
         }
 
         .packagesBlurb {
             color: white;
             font-family: 'Berthold Akzidenz Grotesk BE Regular', 'arial';
-            font-size: large;
+            font-size: 22px;
         }
 
         .explorerTitle {
