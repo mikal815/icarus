@@ -315,7 +315,7 @@
         .accountTitle {
             color: white;
             font-family: 'Space Age';
-            font-size: xx-large;
+            font-size: 2.6em;
         }
 
         .packagesTitle {
@@ -528,6 +528,11 @@
               padding-left: 50px !important;
           }
 
+          .container .account {
+            padding-right: 50px !important;
+            padding-left: 50px !important;
+        }
+
           .nav-item {
               font-size: medium;
           }
@@ -538,5 +543,9 @@
 
           .topRatedFooter {
               margin-top: 45px;
+          }
+
+          .accountFooter {
+            margin-top: 210px;
           }
           
