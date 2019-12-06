@@ -372,7 +372,15 @@
         .expBlurb {
             color: white;
             font-family: 'Berthold Akzidenz Grotesk BE Regular', 'arial';
-            font-size: larger;
+            font-size: 23px;
+        }
+
+        .expContCol1 {
+            padding-right: 35px !important;
+        }
+
+        .expContCol2 {
+            padding-left: 35px !important;
         }
 
         .navHover {
@@ -514,6 +522,15 @@
             width: 100% !important;
           }
 
+          .container .exp {
+              padding-right: 50px !important;
+              padding-left: 50px !important;
+          }
+
           .nav-item {
               font-size: medium;
+          }
+
+          .expRow {
+              padding-left: 100px;
           }
