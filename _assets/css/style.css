@@ -513,3 +513,7 @@
             max-width: 1380px !important;
             width: 100% !important;
           }
+
+          .nav-item {
+              font-size: medium;
+          }
