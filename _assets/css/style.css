@@ -283,17 +283,19 @@
 
         #contactUs {
             font-family: 'Space Age';
+            color: white;
         }    
 
         #contactBlurb {
             font-family: 'Berthold Akzidenz Grotesk BE Regular', 'arial';
+            font-size: 22px;
         }
 
         #contactBlurb2 {
             font-family: 'Berthold Akzidenz Grotesk BE Regular', 'arial';
             color: white;
             font-weight: bold;
-            font-size: 1em;
+            font-size: 22px;
         }
 
         footer {
@@ -533,6 +535,12 @@
             padding-left: 50px !important;
         }
 
+        .container .contactPage {
+            padding-right: 50px !important;
+            padding-left: 50px !important;
+        }
+
+
           .nav-item {
               font-size: medium;
           }
@@ -547,5 +555,9 @@
 
           .accountFooter {
             margin-top: 165px;
+          }
+
+          .contactFooter {
+            margin-top: 100px;
           }
           
