@@ -225,7 +225,7 @@
 
             font-family: 'Space Age';
             color: white;
-            font-size: x-large;
+            font-size: xx-large;
         }
 
         .starrating {
@@ -244,7 +244,7 @@
 
             font-family: 'Berthold Akzidenz Grotesk BE Regular', 'arial';
             color: white;
-            font-size: 0.9em;
+            font-size: 20px;
         }
 
         .bookingbuttons {  
@@ -561,3 +561,6 @@
             margin-top: 100px;
           }
           
+          .detailFooter {
+              margin-top: 125px;
+          }
