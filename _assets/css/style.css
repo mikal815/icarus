@@ -195,7 +195,7 @@
 
         .destinationsinfo {
             font-family: 'Berthold Akzidenz Grotesk BE Regular', 'arial';
-            font-size: 18px;
+            font-size: 22px;
             color: white;
             background: rgba(185, 185, 185, 0.5);
             padding-top: 10px;
@@ -534,3 +534,8 @@
           .expRow {
               padding-left: 100px;
           }
+
+          .topRatedFooter {
+              margin-top: 45px;
+          }
+          
