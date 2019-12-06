@@ -495,3 +495,7 @@
           .icarusExpNav {
               margin-bottom: -65px;
           }
+
+          .socialIcons {
+              display: inline-flex !important;
+          }
